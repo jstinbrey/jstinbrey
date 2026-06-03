@@ -1,5 +1,13 @@
 # 💫 About Me:
-# 👋 Hey, I'm Justin<br><br>```yaml<br>Name: Justin<br>Focus: Artificial Intelligence & Cloud Computing<br>Interests:<br>  - Machine Learning<br>  - Cloud Technologies<br>  - Software Engineering<br>  - Metal birds ✈️<br>  - Pokémon ⚡<br>```<br><br>### 🚀 About Me<br>AI major focused on developing intelligent, scalable, and impactful solutions. Passionate about leveraging cloud technologies to bring ideas from concept to deployment.<br><br>> "Always learning. Always building."
+
+# Justin 👋
+🤖 AI Major  
+☁️ Cloud Computing Enthusiast  
+💻 Building intelligent and scalable solutions  
+✈️ Aviation Fan • ⚡ Pokémon Trainer
+
+---
+*"Turning ideas into intelligent systems."*
 
 
 ## 🌐 Socials:

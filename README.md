@@ -4,10 +4,7 @@
 🤖 AI Major  
 ☁️ Cloud Computing Enthusiast  
 💻 Building intelligent and scalable solutions  
-✈️ Aviation Fan • ⚡ Pokémon Trainer
-
----
-*"Turning ideas into intelligent systems."*
+I like metal birds ✈️ and weird animals in pokebols ⚡
 
 
 ## 🌐 Socials:

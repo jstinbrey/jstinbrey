@@ -1,24 +1,32 @@
 <div align="center">
 
 ```text
-     _           _   _
-    | |         | | (_)
-    | |_   _ ___| |_ _ _ __
-_   | | | | / __| __| | '_ \
-| |_| | |_| \__ \ |_| | | | |
- \___/ \__,_|___/\__|_|_| |_|
++------------------------------------------------------------------+
+|  [x] [o] [ ]                                      justin-brey.exe |
++------------------------------------------------------------------+
+|                                                                  |
+|   JJJ  U U  SSS  TTT  I  N N       B B  RRR  EEE  Y Y           |
+|     J  U U  S      T  I  NN        B B  R R  E    Y Y           |
+|     J  U U  SSS    T  I  N N       BBB  RRR  EEE   Y            |
+|   J J  U U    S    T  I  N N       B B  R R  E     Y            |
+|    JJ   UUU  SSS    T  I  N N       B B  R R  EEE   Y            |
+|                                                                  |
++------------------------------------------------------------------+
 ```
 
-### `Building intelligent, scalable, and cloud-ready systems`
+### `Justin Brey`
+
+`AI major`  |  `cloud computing enthusiast`  |  `builder`
 
 </div>
 
 ---
 
-## `> about_me.txt`
+## `> justin-brey.exe`
 
 ```txt
-Name      : Justin
+Name      : Justin Brey
+Handle    : jstinbrey
 Focus     : AI Major | Cloud Computing Enthusiast
 Building  : Intelligent and scalable solutions
 Interests : Metal birds, machine learning, cloud systems, and weird animals in Poke Balls
@@ -31,21 +39,21 @@ Status    : Learning, shipping, and improving every day
 
 **Languages & AI**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-CF7E5C?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-CF7E5C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-3A3A38?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Cloud & Deployment**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-CF7E5C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-3A3A38?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Design & Tools**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=blue)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-CF7E5C?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-3A3A38?style=for-the-badge&logo=framer&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-CF7E5C?style=for-the-badge&logo=Canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-3A3A38?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -113,10 +121,10 @@ print("Let's build something useful together.")
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-jstinbrey-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jstinbrey)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-jstinbry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jstinbry)
-[![Email](https://img.shields.io/badge/EMAIL-Justin-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justinjpara.onbrey@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=jstinbrey&style=for-the-badge&color=0e75b6)
+[![GitHub](https://img.shields.io/badge/GITHUB-jstinbrey-3A3A38?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jstinbrey)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-jstinbry-CF7E5C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jstinbry)
+[![Email](https://img.shields.io/badge/EMAIL-Justin-CF7E5C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justinjpara.onbrey@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=jstinbrey&style=for-the-badge&color=CF7E5C)
 
 </div>
 
@@ -125,7 +133,7 @@ print("Let's build something useful together.")
 <div align="center">
 
 ```txt
-// turning ideas into intelligent systems, one commit at a time
+// justin brey :: turning ideas into intelligent systems, one commit at a time
 ```
 
 </div>
